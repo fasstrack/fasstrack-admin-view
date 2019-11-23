@@ -20,3 +20,23 @@
 .App-link {
   color: #09d3ac;
 }
+
+table {
+  float: left;
+  margin: 20px;
+  border: 1px solid black;
+}
+td {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.truck-warn {
+  background: orange;
+  color: black;
+}
+
+.truck-fine {
+  background: green;
+  color: white;
+}
